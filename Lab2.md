@@ -14,3 +14,5 @@ My PullRequest fork: https://github.com/LingCheng3273/PullReq
 
 git diff: ![gitdif](gitdif.png)
 git tag -l: ![gittag](gittag.png)
+Link to OSSProjectIdeas repo: https://github.com/prashb99/OSSProjectIdeas
+

@@ -1,4 +1,4 @@
 * Ling Cheng
 * ![catphoto](catphoto.jpg)
 * Year 2021
-* Emacs or Notepad++
+* Emacs, Notepad++, or maybe creating a game
